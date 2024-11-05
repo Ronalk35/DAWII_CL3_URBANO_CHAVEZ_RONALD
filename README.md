@@ -52,3 +52,7 @@ El archivo routes.ts configura las rutas de la aplicación, permitiendo la naveg
 
 ## App Configuración de Proveedores
 El archivo appConfig proporciona configuraciones y servicios adicionales, como el router, el cliente HTTP y las animaciones.
+
+## Screenshots
+
+![Consumo de API](src/img/Api.png)
