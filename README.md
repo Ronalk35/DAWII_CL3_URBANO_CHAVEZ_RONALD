@@ -55,4 +55,4 @@ El archivo appConfig proporciona configuraciones y servicios adicionales, como e
 
 ## Screenshots
 
-![Consumo de API](src/img/Api.png)
+![Consumo de API](src/img/desplegable.png)
